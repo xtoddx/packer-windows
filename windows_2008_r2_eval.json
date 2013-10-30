@@ -4,7 +4,6 @@
     "iso_url": "./iso/7601.17514.101119-1850_x64fre_server_eval_en-us-GRMSXEVAL_EN_DVD.iso",
     "iso_checksum_type": "md5",
     "iso_checksum": "4263be2cf3c59177c45085c0a7bc6ca5",
-    "headless": true,
     "boot_wait": "5m",
     "ssh_username": "vagrant",
     "ssh_password": "vagrant",
